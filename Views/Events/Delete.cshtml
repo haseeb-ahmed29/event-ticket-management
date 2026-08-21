@@ -1,0 +1,2 @@
+@model EventTicketManagement.Models.Event
+<h1>Delete Event</h1><p>Are you sure you want to remove <strong>@Model.Name</strong>?</p><form method="post"><input type="hidden" asp-for="Id"><button class="button danger" type="submit">Confirm delete</button> <a href="/Events">Cancel</a></form>

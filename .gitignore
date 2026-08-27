@@ -2,3 +2,11 @@ bin/
 obj/
 *.db
 .vs/
+
+# Local runtime configuration and secrets
+**/.env
+**/.env.*
+!**/.env.example
+**/appsettings.json
+**/appsettings.*.json
+!**/appsettings.example.json

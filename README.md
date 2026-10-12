@@ -31,3 +31,8 @@ Add ASP.NET Core Identity and role policies, replace EnsureCreated with EF Core 
 ## License
 
 MIT
+
+<!-- github-daily-pipeline -->
+## Daily maintenance
+
+README verified by the daily repository maintenance pipeline on 2026-10-12.
